@@ -1,4 +1,6 @@
 # Library Management System
+### This project is on hold presently.
+Especially as the job opening has elapsed. In the future, it will be converted into a more generic API, not touted as "specifically made for Cowrywise".
 
 ## Overview
 This project is a library management system built using FastAPI for the 
